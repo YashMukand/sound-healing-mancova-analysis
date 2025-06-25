@@ -1,7 +1,6 @@
-# sound-healing-mancova-analysis
-Statistical analysis of a sound healing study using MANCOVA in Python. Includes anonymized dataset, formatted console output, and research-ready script.
-
 # Sound Healing MANCOVA Analysis
+
+Statistical analysis of a sound healing study using MANCOVA in Python. Includes anonymized dataset, formatted console output, and research-ready script.
 
 This repository contains the Python-based statistical analysis conducted as part of an academic study on the effects of sound healing interventions. Specifically, this project applies a Multivariate Analysis of Variance (MANCOVA) to assess outcomes related to Anxiety, Spirituality, and Stress across different conditions.
 
